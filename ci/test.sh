@@ -6,4 +6,3 @@ pushd flight-school
   bundle install
   bundle exec rspec
 popd
-exit 1
